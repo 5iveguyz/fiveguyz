@@ -1,0 +1,13 @@
+package org.example.ohgiraffers.fiveguyz;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FiveguyzApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(FiveguyzApplication.class, args);
+    }
+
+}
